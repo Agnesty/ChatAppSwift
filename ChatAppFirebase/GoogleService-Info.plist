@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>78675558499-lkgggtuii0emfsc9d0h68hc4ndfsion8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.78675558499-lkgggtuii0emfsc9d0h68hc4ndfsion8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPShDSj_OMeNrLwsonKWJn0zDuZnbuI3A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>78675558499</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>latihanAppSwift.ChatAppFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>authentication-project-267a4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authentication-project-267a4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:78675558499:ios:37f448aff1d53fa14b3856</string>
+	<key>DATABASE_URL</key>
+	<string>https://authentication-project-267a4-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
